@@ -6,7 +6,7 @@ import Profile from "./pages/Profile";
 import SignOut from "./pages/SignOut";
 import SignIn from "./pages/SignIn";
 import NoPage from "./pages/NoPage";
-
+import Setting from "./pages/Setting";
 export default function App() {
   return (
     <BrowserRouter>
